@@ -22,6 +22,8 @@
 				<input type='radio' id='radio5' class='mainRButtons'> <span class='rText'>India</span>
 			</form>
 		</div>
+		
+		<div id='nothingBox'></div>
 	</body>
 </html>
 
