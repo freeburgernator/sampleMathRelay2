@@ -1,10 +1,2 @@
-This is a test by kyle-murdoch
+Kyle Murdoch changing at 11:39 on 1/5/16
 
-My name is Ethan Freeburg.
-I'm also testing something new, and seeing how it works.
-Maybe we need a pull request?
-
-Adding some more lines too.
-Good morning sunshine... the earth says hello!
-
-Roland is here now, sorry people.
