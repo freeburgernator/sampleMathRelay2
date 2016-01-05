@@ -1,10 +1,4 @@
-This is a test by kyle-murdoch
+Updating at 11:33 on 1/5/16:
 
-My name is Ethan Freeburg.
-I'm also testing something new, and seeing how it works.
-Maybe we need a pull request?
+Kyle Murdoch making a change to New Text Document from branch freeburgernator/master
 
-Adding some more lines too.
-Good morning sunshine... the earth says hello!
-
-This is Kyle Murdoch playing around with pushing and pulling.
