@@ -3,3 +3,5 @@ This is a test by kyle-murdoch
 My name is Ethan Freeburg.
 I'm also testing something new, and seeing how it works.
 Maybe we need a pull request?
+
+Adding some more lines too.
